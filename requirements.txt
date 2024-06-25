@@ -1,2 +1,7 @@
 rembg
-onnxruntime
+streamlit==1.36.0
+rembg
+onnxruntime>=1.10.0
+numpy
+protobuf
+python==3.11.7
